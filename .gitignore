@@ -131,3 +131,7 @@ dmypy.json
 # datasets
 data/AgriNet.rar
 /AgriNet.rar
+data/AgriNet
+/AgriNet
+data/AgriNet.zip
+/AgriNet.zip
