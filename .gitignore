@@ -129,11 +129,4 @@ dmypy.json
 .pyre/
 
 # datasets
-data/AgriNet.rar
-/AgriNet.rar
-data/AgriNet
-/AgriNet
-data/AgriNet.zip
-/AgriNet.zip
-/AgriNet_top_50_percent
-data/AgriNet_top_50_percent
+data/
